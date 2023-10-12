@@ -1,0 +1,24 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaykTunyan/BackEnd_Project.git"
+  },
+  "author": "Hayk Tunyan",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/HaykTunyan/BackEnd_Project/issues"
+  },
+  "homepage": "https://github.com/HaykTunyan/BackEnd_Project#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
